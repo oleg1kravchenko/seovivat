@@ -234,6 +234,9 @@
 .modal-popup .descr-form {
 	padding-top: 36px;
 }
+.wrapper {
+	overflow: hidden;
+}
 }
 
 /* Small Devices, Tablets */
@@ -577,6 +580,9 @@
 }
 .modal-popup .descr-form {
 	margin-top: auto;
+}
+.item-question__icon {
+	margin-left: 25px;
 }
 }
 

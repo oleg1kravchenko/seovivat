@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 .wrapper {
 	padding-top: 120px;
-	overflow: hidden;
+
 }
 a {
 	text-decoration: none;
@@ -550,6 +550,8 @@ a {
 	background: #FFFFFF;
 	box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.05);
 	border-radius: 10px;
+	position: sticky;
+	top: 120px;
 }
 .sidebar li a {
 	color: #333333;
